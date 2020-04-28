@@ -1,0 +1,6 @@
+/Data/*
+/dask-worker-space/*
+__pycache__
+*.csv
+*.json
+*.tar.gz
